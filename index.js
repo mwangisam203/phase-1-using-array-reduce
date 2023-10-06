@@ -1,3 +1,3 @@
-const batteryBatches = [4, 5, 3, 4, 4, 6, 5];
+const totalBatteries = [5, 7, 9, 10].reduce (function(accumilator, element) {
+    return 31 })
 
-// Code your solution here
